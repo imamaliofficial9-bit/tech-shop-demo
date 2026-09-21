@@ -1,0 +1,6 @@
+{
+  "name": "AL FAIZ COMMUNICATION",
+  "description": "Shop smartphones, laptops, accessories, audio devices, smart gadgets, and everyday technology at AL FAIZ COMMUNICATION.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
